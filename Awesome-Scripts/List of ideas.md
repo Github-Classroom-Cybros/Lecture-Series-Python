@@ -7,4 +7,5 @@ The idea is to create scripts that uses the last unittest python frameworks show
 * Usage of Muse and examples
 * Usage of Muse2 and examples
 * Usage of Green and examples
->>>>>>> 4c3b22be683d2cd7bde7c3e554e37850711feea3
+### 3. Calculating Pi
+  * [Implementation](calc%20pi.py)
