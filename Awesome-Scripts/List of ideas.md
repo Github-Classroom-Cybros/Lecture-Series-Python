@@ -15,9 +15,12 @@ The idea is to create scripts that uses the last unittest python frameworks show
 * Give an alphabetical argument while running script.
 * Example:
 
-``` 
+```
 python bigtext.py hello
 ```
 ### 7. [Bing wallpaper scraper](wallpaper-scraper.py)
 * A script that scrapes the bing wallpaper of the day and downloads it to a specified location
 * In Ubuntu based systems it also sets the desktop background to the bing wallpaper of the day
+
+### 8. [Amazon Product Info scraper](amazon_scrap.py)
+* Given an **ASIN** of a product this script scrapes product price, review from amazon.in. Try ``` python amazon_scrap.py -h ``` for more details.
