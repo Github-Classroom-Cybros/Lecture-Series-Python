@@ -11,3 +11,11 @@ The idea is to create scripts that uses the last unittest python frameworks show
 ### 4. [Quora-scraper](quora_scraper.py)
 * A script that scrapes the quora question and its top 3 answers.
 ### 5. [Calculating Pi](calc%20pi.py)
+
+### 6. [Big Text Prompt](bigtext.py)
+* Give an alphabetical argument while running script.
+* Example:
+
+``` 
+python bigtext.py hello
+```
