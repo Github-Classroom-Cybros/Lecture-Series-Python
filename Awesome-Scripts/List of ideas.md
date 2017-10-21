@@ -11,3 +11,6 @@ The idea is to create scripts that uses the last unittest python frameworks show
 ### 4. [Quora-scraper](quora_scraper.py)
 * A script that scrapes the quora question and its top 3 answers.
 ### 5. [Calculating Pi](calc%20pi.py)
+### 6. [Bing wallpaper scraper](wallpaper-scraper.py)
+* A script that scrapes the bing wallpaper of the day and downloads it to a specified location
+* In Ubuntu based systems it also sets the desktop background to the bing wallpaper of the day
