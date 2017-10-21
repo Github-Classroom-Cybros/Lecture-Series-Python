@@ -1,4 +1,5 @@
-# it is for python 2
+# Basic Python Syntax
+## Python 2
 
 1. Printing output in python 2 :-
    print "argument that you want to print"
