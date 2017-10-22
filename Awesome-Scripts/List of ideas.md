@@ -21,3 +21,6 @@ python bigtext.py hello
 ### 7. [Bing wallpaper scraper](wallpaper-scraper.py)
 * A script that scrapes the bing wallpaper of the day and downloads it to a specified location
 * In Ubuntu based systems it also sets the desktop background to the bing wallpaper of the day
+
+### 8.  Text file Generator
+An application which can read in a file(image or pdf) in handwritten form and generates a text file(pdf) out of it. Great for a web based service where the user uploads the handwritten notes image and the program returns a PDF of the file.
