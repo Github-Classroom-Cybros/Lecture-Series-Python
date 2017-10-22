@@ -24,3 +24,6 @@ python bigtext.py hello
 
 ### 8.  Text file Generator
 An application which can read in a file(image or pdf) in handwritten form and generates a text file(pdf) out of it. Great for a web based service where the user uploads the handwritten notes image and the program returns a PDF of the file.
+
+### 9.  Hacker news scrapper
+A script that returns headlines of the top posts on Hacker News
