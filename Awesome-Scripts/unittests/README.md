@@ -9,7 +9,7 @@ Unit testing is the prime candidate for automation. The xUnit style  is the coll
  unittest.
  
  ## Using unittest
- You can fin the script called **test_my_code.py** to execute the test, from console type:
+ You can fin the script called [**test_my_code.py**](test_my_code.py) to execute the test, from console type:
  
   ```{r}
 python3 -m unittest test_my_code -v
