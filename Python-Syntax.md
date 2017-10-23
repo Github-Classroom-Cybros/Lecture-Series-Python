@@ -20,3 +20,10 @@
  example of putting multiline comments is :
  """ hello
  how are you """
+ 
+ 5. To validate a variable to be an integer or a string, use 'isinstance(<var>, <type>)'
+ it accepts two parameter
+ 1. variable name
+ 2. Type to be validated
+ example: isinstance(a, dict) , isinstance(num, integer)
+ It return True if true else false.
