@@ -27,3 +27,10 @@ python bigtext.py hello
 An application which can read in a file(image or pdf) in handwritten form and generates a text file(pdf) out of it. Great for a web based service where the user uploads the handwritten notes image and the program returns a PDF of the file.
 ### 10.  Hacker news scrapper
 A script that returns headlines of the top posts on Hacker News
+### 11. [Script to play HangMan game](hangMan.py)
+A CLI game in which player enters a movie name and second guesses it in less than 7 wrong guesses.
+### 12. [Script to get top 15 IMDB movies](imdbScrapper.py)
+Very basic script that fetches top 15 IMDB movies
+### 13. [Script to play Morse code audio depending on the users entered string](morseCode.py)
+It plays morse code (audio) depending on users' entered string.
+~                    
