@@ -33,4 +33,5 @@ A CLI game in which player enters a movie name and second guesses it in less tha
 Very basic script that fetches top 15 IMDB movies
 ### 13. [Script to play Morse code audio depending on the users entered string](morseCode.py)
 It plays morse code (audio) depending on users' entered string.
+### 14. The number game that insults you if you get it wrong with entries in a file.
 ~                    
