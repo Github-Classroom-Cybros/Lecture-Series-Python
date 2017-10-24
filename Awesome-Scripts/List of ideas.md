@@ -34,4 +34,6 @@ Very basic script that fetches top 15 IMDB movies
 ### 13. [Script to play Morse code audio depending on the users entered string](morseCode.py)
 It plays morse code (audio) depending on users' entered string.
 ### 14. The number game that insults you if you get it wrong with entries in a file.
+### 15. [Bitcoin price tracker GUI](luno_btc_price.py)
+A GUI that shows Bitcoin price with a button that can refresh to the current price.
 ~                    
