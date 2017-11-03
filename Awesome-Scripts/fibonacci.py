@@ -8,4 +8,6 @@ def fib(n):
 
 
 n = int(input("Enter a number: "))
-print(fib(n))
+print("Fibonacci series:")
+for i in range(n):
+    print fib(n)
